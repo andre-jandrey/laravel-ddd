@@ -2,6 +2,7 @@
 
 namespace Domain\User\DataTransferObjects;
 
+use App\Api\User\Requests\UserRequest;
 use Spatie\DataTransferObject\DataTransferObject;
 
 class UserData extends DataTransferObject
